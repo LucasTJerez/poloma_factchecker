@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/poloma_factchecker/static/css/main.34de6062.chunk.css",
+    "main.js": "/poloma_factchecker/static/js/main.d9bb8341.chunk.js",
+    "main.js.map": "/poloma_factchecker/static/js/main.d9bb8341.chunk.js.map",
+    "runtime~main.js": "/poloma_factchecker/static/js/runtime~main.3b533505.js",
+    "runtime~main.js.map": "/poloma_factchecker/static/js/runtime~main.3b533505.js.map",
+    "static/js/2.f56976e8.chunk.js": "/poloma_factchecker/static/js/2.f56976e8.chunk.js",
+    "static/js/2.f56976e8.chunk.js.map": "/poloma_factchecker/static/js/2.f56976e8.chunk.js.map",
+    "index.html": "/poloma_factchecker/index.html",
+    "precache-manifest.0453f99487ee357cf1b18ae783a7660b.js": "/poloma_factchecker/precache-manifest.0453f99487ee357cf1b18ae783a7660b.js",
+    "service-worker.js": "/poloma_factchecker/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/poloma_factchecker/static/css/main.34de6062.chunk.css.map",
+    "static/media/booker.png": "/poloma_factchecker/static/media/booker.e0b99454.png",
+    "static/media/bullock.png": "/poloma_factchecker/static/media/bullock.97239cf4.png",
+    "static/media/logo_blue_bg.png": "/poloma_factchecker/static/media/logo_blue_bg.77047a62.png",
+    "static/media/rubio.png": "/poloma_factchecker/static/media/rubio.36b81f35.png",
+    "static/media/ryan.png": "/poloma_factchecker/static/media/ryan.a81e5df2.png",
+    "static/media/trump.png": "/poloma_factchecker/static/media/trump.6bdaa60d.png"
+  }
+}
